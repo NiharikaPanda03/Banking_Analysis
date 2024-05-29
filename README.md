@@ -1,6 +1,6 @@
 # Introduction
-## Banking analytics refers to the application of data analytics, that is the use of various tools and technologies to collect, process and analyze raw data within the banking industry.
-Examples :Banking analytics include customer segmentation, credit risk management and fraud detection.
+### Banking analytics refers to the application of data analytics, that is the use of various tools and technologies to collect, process and analyze raw data within the banking industry.
+### Examples :Banking analytics include customer segmentation, credit risk management and fraud detection.
 
 ## Tools & Technologies used:
 ### Excel
