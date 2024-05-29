@@ -1,29 +1,15 @@
-# Healthcare_Analysis
+Banking analytics refers to the application of data analytics, that is the use of various tools and technologies to collect, process and analyze raw data within the banking industry.
+Examples :Banking analytics include customer segmentation, credit risk management and fraud detection.
 
-SELECT * FROM healthcare;
+Tools & Technologies used:
+Excel
+Sql
+Tableau
+PowerPoint
 
--- KPI-1:--
-Select sum(DIS_TOT) from healthcare;
-
--- KPI-3:--
-Select sum(NET_PAT_REV_CC) from healthcare;
-
--- KPI-4:--
-Select year, sum( NET_TOT) as Revenue_Trend from healthcare
-group by year ;
-
--- KPI-5:--
-Select sum(DAY_TOT) from healthcare;
-
--- KPI-6:--
-Select TYPE_CNTRL ,sum( NET_TOT) as State_wise_hospitals from healthcare
-group by TYPE_CNTRL ;
-
--- KPI-7:--
-Select sum(NET_TOT) from healthcare;
-
--- KPI-8:--
-Select sum(NET_TOT) from healthcare;
-
--- KPI-9:--
-Select sum(VIS_TOT) from healthcare;
+KPIs:
+Year wise loan amount Stats
+Grade and subgrade wise revol_bal
+Total Payment for Verified Status Vs Total Payment for Non Verified Status
+State wise and last_credit_pull_d wise loan status
+Home ownership Vs last payment date stats
